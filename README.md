@@ -1,4 +1,4 @@
-# 🔄 Exercícios Python - Loops
+# 🐍 Exercícios Python - Loops
 
 Repositório com exercícios práticos de estruturas de repetição (for/while) em Python.
 
